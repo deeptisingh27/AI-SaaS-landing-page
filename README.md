@@ -24,7 +24,7 @@ Setup:
 3) Ensure all images (hero.png, feature1.png, feature2.png, feature3.png) are in the project folder.
 
 Deployment:
-The project is purely frontend and can be hosted on GitHub Pages or any static site hosting. Example live link: 
+The project is purely frontend and can be hosted on GitHub Pages or any static site hosting. Example live link: https://deeptisingh27.github.io/AI-SaaS-landing-page/
 
 Notes:
 1) No backend required.
